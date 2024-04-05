@@ -1,1 +1,3 @@
 At usd AG we try to make a difference and achieve #moresecurity for everyone. In this repository we share tools and knowledge we gained in years of working as pentesters and consultants for information security. In our daily work we are standing on the shoulders of giants in terms of open source tools we use frequently. With our tools collected here we want to give back to this awesome community. Feel free to get in touch with us. More information is also available on our [homepage](https://www.usd.de) and [technical blog](https://herolab.usd.de/labnews/).
+
+On our company website you will find our imprint (https://www.usd.de/en/imprint/) and privacy policy (https://www.usd.de/en/privacy-protection/).
